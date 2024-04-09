@@ -49,9 +49,9 @@ Cons: No direct copy/paste in the app, installing was a little weird
 
 # Useful Websites
 
-[Satori Reader]()
-[Tofugu]()
-[JLPT Sensei]()
+[Satori Reader](https://satorireader.com/)
+[Tofugu](https://www.tofugu.com/)
+[JLPT Sensei](https://jlptsensei.com/)
 
 ## Sentence Mining
 
