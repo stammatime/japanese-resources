@@ -1,0 +1,1 @@
+Yomitan Anki card creation only works in the browser so I've made some html pages where I can highlight the lyrics and then make corresponding cards!
