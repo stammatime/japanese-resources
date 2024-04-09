@@ -20,9 +20,9 @@ Reference for materials and websites I've used on my Japanese learning Journey
 
 ## Apps
 
-- [yomitan]() A chrome extension that can give you the definition of highlighted text on you desktop.  This can also be used to create study cards from the highlighted word.
+- [yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) A chrome extension that can give you the definition of highlighted text on you desktop.  This can also be used to create study cards from the highlighted word.
 - [imiwa](https://apps.apple.com/us/app/imiwa/id288499125) A dictionary that parses out the content on your clipboard.  Very useful for getting the readings of Kanji without needing to manually search for them.  Only on iOS.
-- [NHK Accent Dictionary]() Dictionary for looking up the NHK official Tokyo accent information on words.
+- [NHK Accent Dictionary](https://www.monokakido.jp/en/dictionaries/nhkaccent2/) Dictionary for looking up the NHK official Tokyo accent information on words.
 
 ## Reading 
 
